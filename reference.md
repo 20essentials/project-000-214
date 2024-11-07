@@ -1,0 +1,3 @@
+- **Reference ⬇️**
+  - [LEDS DECORE](https://www.etsy.com/it/market/wood_led_decor)
+  - [LEDMANSION](https://ledmansion.art/it)

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; URL=/" />
+    <script type="text/javascript">
+        // Redirige solo si la URL aún no contiene el prefijo `/project-000-214`
+        if (!window.location.pathname.startsWith('/project-000-214')) {
+            const newPath = `${window.location.origin}/project-000-214${window.location.pathname}${window.location.search}`;
+            window.location.replace(newPath);
+        }
+    </script>
+</head>
+<body>
+    <p>If you are not redirected, <a href="/project-000-214">click here</a> to go back to the homepage.</p>
+</body>
+</html>
